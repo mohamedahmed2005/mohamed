@@ -1,8 +1,4 @@
-# File: CS112_A1_T2_Game3_20231134.py
 # Purpose: user will input number, he/she will play with his/her friend who they will enter square number and subtracting this number from the first number they input and the first indvidual will reach 0 he/she wins.
-# Author: Mohamed Ahmed Mohamed Abd-Elwahab
-# ID: 20231134
-
 import math
 import random
 print("""--------------Welcome to Subtract a square number game--------------
